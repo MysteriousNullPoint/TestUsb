@@ -1,0 +1,2 @@
+rootProject.name='TestUSB'
+include ':app'
